@@ -20,7 +20,7 @@ init_engine(CSV_PATH)
 print("✅ Engine ready.")
 
 # ── Groq API Key — ganti di sini atau set: export GROQ_API_KEY=gsk_... ─────────
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "ISI_GROQ_API_KEY_KAMU_DI_SINI")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "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")
 
 
 # ── Routes ──────────────────────────────────────────────────────────────────────
