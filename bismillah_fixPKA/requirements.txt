@@ -1,0 +1,12 @@
+flask>=3.0.0
+pandas>=2.0.0
+numpy>=1.26.0
+requests>=2.31.0
+
+# Vector store & embeddings (ganti dari TF-IDF ke ChromaDB + HuggingFace)
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-huggingface>=0.0.3
+langchain-chroma>=0.1.0
+chromadb>=0.5.0
+sentence-transformers>=2.7.0
